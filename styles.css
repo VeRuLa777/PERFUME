@@ -1,0 +1,22 @@
+.div1 {
+  width: 300px;
+  background-color: rgb(219, 216, 0);
+  margin: auto;
+  padding: 20px;
+  border-radius: 15px;
+  height: 430px;
+}
+.buy-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
